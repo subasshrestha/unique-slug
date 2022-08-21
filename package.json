@@ -1,6 +1,6 @@
 {
   "name": "@subasshrestha/unique-slug",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate a unique slug for a given string by appending random string at the end",
   "main": "index.js",
   "scripts": {
